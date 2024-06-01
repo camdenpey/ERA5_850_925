@@ -1,4 +1,0 @@
-channels:
-  - defaults
-default_python:
-ssl_verify: true
